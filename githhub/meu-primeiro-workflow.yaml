@@ -1,0 +1,17 @@
+on: push
+
+jobs:
+    job1-hello:
+        runs-on: ubuntu-latest
+        steps:
+        - name: Imprimir mensagem
+          run: echo "Olá, Mundo"
+    job2-goodbye:cls
+        runs-on: ubuntu-latest
+        steps:
+        - name: Step 1 - Sequencia de instruções
+          run: |git add
+            echo "Uma nova instrução"
+            ls            
+        - name: Step 2 - Imprimir mensagem
+          run: echo "Até logo!"
