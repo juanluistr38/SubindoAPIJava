@@ -1,4 +1,4 @@
-name: Meu Primeiro workflow correto, finalmente !
+name: Meu Primeiro workflow correto, finalmente !git
 on: push
 
 jobs:
