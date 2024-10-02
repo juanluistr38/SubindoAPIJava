@@ -14,9 +14,9 @@ Aplicação API em Java
 docker compose up --build
 ```
 
+./mvnw test
 ## Testes unitários (validação 2)
 
-./mvnw test
 
 
 ## Documentação online (OpenAPI)
