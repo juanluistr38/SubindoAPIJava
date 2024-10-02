@@ -1,6 +1,6 @@
 # Simple API Java
 
-Aplicação API em Java
+Atualizando a branche Develop
 
 ## Pré-requisitos
 
