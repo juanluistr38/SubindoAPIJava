@@ -1,6 +1,6 @@
 # Simple API Java
 
-Aplicação API em Javagit 
+Aplicação API em Java
 
 ## Pré-requisitos
 
@@ -14,7 +14,7 @@ Aplicação API em Javagit
 docker compose up --build
 ```
 
-## Testes unitários (validação)
+## Testes unitários (validação 2)
 
 ./mvnw test
 
